@@ -7,7 +7,7 @@
 
 ### Hi there 👋, My name is Zuhayer Khan
 #### I am a Web Developer, & Programmer 
-![I am a Web Developer, & Programmer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Developer, & Programmer ](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
 
 Skills:  HTML / CSS / PYTHON
