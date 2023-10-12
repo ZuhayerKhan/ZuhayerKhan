@@ -10,7 +10,7 @@
 ![I am a Web Developer, & Programmer ](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
 
-Skills:  HTML / CSS / PYTHON
+Skills:  HTML / C
 
 - 🔭 I’m currently working on Web Development  
 - 🌱 I’m currently learning Python 
