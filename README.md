@@ -10,10 +10,10 @@
 ![](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
 
-Skills:  c++ / c 
+Skills: CAD Design/ Microcontrollers/ Circuit design/ c++ / c 
 
-- 🔭 I’m currently working on Web Development  
-- 🌱 I’m currently learning Python 
+- 🔭 I’m currently working on Complex CAD Models
+- 🌱 I’m currently learning AI automation  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZuhayerKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zuhayerkhan777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zekealways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCWtMJaE_iddfv0YQmlO6wfQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.thecosmicwisdom.blogspot.com)  
