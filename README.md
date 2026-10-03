@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-### Hi there 👋, My name is Zuhayer Khan
 #### Skills: CAD Design/ Microcontrollers/ Circuit design/ c++ / c 
 
 #### - 🔭 I’m currently working on Complex CAD Models
