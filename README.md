@@ -3,8 +3,8 @@
 
 
 
-#### - 🔭 I’m currently working on Complex CAD Models
-#### - 🌱 I’m currently learning AI automation  
+#### - 🔭 Currently working on Complex CAD Models
+#### - 🌱 Currently learning AI automation  
 
 ![](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
