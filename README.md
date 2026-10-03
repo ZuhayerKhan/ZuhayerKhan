@@ -7,7 +7,7 @@
 
 ### Hi there 👋, My name is Zuhayer Khan
 #### Mathematics Undergrad | Electronics & Robotics Enthusiast | STEM & Prototyping 
-![cccc ](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
+![](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
 
 Skills:  c++ / c 
