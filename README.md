@@ -6,11 +6,11 @@
 
 
 ### Hi there 👋, My name is Zuhayer Khan
-#### I am a Web Developer, & Programmer 
-![I am a Web Developer, & Programmer ](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
+#### Mathematics Undergrad | Electronics & Robotics Enthusiast | STEM & Prototyping 
+![cccc ](https://images.app.goo.gl/LZjBfr14PNAM9Xd66)
 
 
-Skills:  HTML / C
+Skills:  c++ / c 
 
 - 🔭 I’m currently working on Web Development  
 - 🌱 I’m currently learning Python 
